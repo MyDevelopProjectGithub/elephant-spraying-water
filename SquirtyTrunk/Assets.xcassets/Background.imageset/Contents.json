@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "lucid-origin_2D_mobile_game_background_cute_jungle_savanna_scene_green_grass_trees_in_distanc-0.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

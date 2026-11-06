@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "lucid-origin_Cute_cartoon_gray_rock_rounded_shape_simple_design_flat_2D_illustration_transpar-0-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
